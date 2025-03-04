@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class StudentGrades2D {
+public class StudentMarks2D {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
